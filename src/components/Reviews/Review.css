@@ -271,12 +271,13 @@
 }
 
 .review-box .second{
-    height: 300vh;
+    height: 100vh;
     width: 80%;
 }
 
 .review-box .one{
     width: 80%;
+    height: 50vh;
 }
 
 .review-box .one h3{
