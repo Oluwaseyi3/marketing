@@ -337,7 +337,7 @@
 
 .caleb-box-2{
     width: 85%;
-    height: 80vh;
+    height: 10vh;
    
 }
 
@@ -360,7 +360,7 @@
 
 .fourth-container-secondbox{
     width: 80%;
-    height: 80vh;
+    height: 100vh;
     display: flex;
     margin-left: 40px;
     margin-right: 40px;
@@ -372,7 +372,7 @@
 
 .fifth-container{
     margin-top: 50px;
-    height: 150vh;
+    height: 180vh;
     width: 100%;
     flex-direction: column;
     align-items: center;
@@ -395,7 +395,7 @@
 .fifth-container .seconddiv{
   
     width: 80%;
-    height: 80vh;
+    height: 100vh;
     margin-left: 40px;
     margin-right: 40px;
 }
