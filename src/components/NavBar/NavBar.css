@@ -1,0 +1,42 @@
+header{
+    background-color: #6b3e2e;
+}
+
+button{
+    padding: 1px 7px;
+    text-decoration: none;
+    border: solid 5px #6b3e2e;
+    background-color: #6b3e2e;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 59px;
+    color: white;
+}
+
+.nav ul{
+    list-style: none;
+    display: inline;
+}
+
+
+.nav li{
+    display: inline;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.logo{
+    flex: 1;
+}
